@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4fb40cbabd1cb2348b7f5c4fdf4fe6fa, type: 3}
   m_Name: Route_A
   m_EditorClassIdentifier: 
-  pointA: {x: 0, y: 0.8, z: 0}
+  pointA: {x: 0, y: 0.8, z: 4.62}
   pointB: {x: 0, y: 0.8, z: -6}
